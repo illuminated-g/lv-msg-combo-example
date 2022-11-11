@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-11-09 23:42:44" Modified_Date="2022-11-10 00:09:56" Creator="Localization Tester" Comments="" ID="7e914a28f6481fb672fad392c7cb5072">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-11-09 23:42:44" Modified_Date="2022-11-10 19:41:08" Creator="Localization Tester" Comments="" ID="05ba4ff5d717491fc09ed4a7df61a8fb">
   <Library_General_Settings>
     <Package_File_Name>IlluminatedG_lib_IG_WebSocket_&amp;_TCP_Messaging_Example</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.0.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\vip</Library_Output_Folder>
@@ -18,17 +18,17 @@
   <Advanced_Settings>
     <Package_Dependencies>
       <External_Dependencies>illuminatedg_lib_ig_http_utils &gt;= 1.0.0.45</External_Dependencies>
-      <External_Dependencies>illuminatedg_lib_ig_simple_msg &gt;= 1.0.0.34</External_Dependencies>
+      <External_Dependencies>illuminatedg_lib_ig_simple_msg &gt;= 1.0.0.35</External_Dependencies>
       <External_Dependencies>illuminatedg_lib_ig_stream_base &gt;= 1.2.0.46</External_Dependencies>
-      <External_Dependencies>illuminatedg_lib_ig_tcp_stream &gt;= 0.1.0.40</External_Dependencies>
+      <External_Dependencies>illuminatedg_lib_ig_tcp_stream &gt;= 0.1.0.42</External_Dependencies>
       <External_Dependencies>illuminatedg_lib_ig_web&amp;crypto &gt;= 0.1.0.9</External_Dependencies>
-      <External_Dependencies>illuminatedg_lib_ig_websocket_stream &gt;= 1.0.0.10</External_Dependencies>
+      <External_Dependencies>illuminatedg_lib_ig_websocket_stream &gt;= 1.0.0.13</External_Dependencies>
       <Direct_Dependencies>illuminatedg_lib_ig_http_utils-1.0.0.45</Direct_Dependencies>
-      <Direct_Dependencies>illuminatedg_lib_ig_simple_msg-1.0.0.34</Direct_Dependencies>
+      <Direct_Dependencies>illuminatedg_lib_ig_simple_msg-1.0.0.35</Direct_Dependencies>
       <Direct_Dependencies>illuminatedg_lib_ig_stream_base-1.2.0.46</Direct_Dependencies>
-      <Direct_Dependencies>illuminatedg_lib_ig_tcp_stream-0.1.0.40</Direct_Dependencies>
+      <Direct_Dependencies>illuminatedg_lib_ig_tcp_stream-0.1.0.42</Direct_Dependencies>
       <Direct_Dependencies>illuminatedg_lib_ig_web&amp;crypto-0.1.0.9</Direct_Dependencies>
-      <Direct_Dependencies>illuminatedg_lib_ig_websocket_stream-1.0.0.10</Direct_Dependencies>
+      <Direct_Dependencies>illuminatedg_lib_ig_websocket_stream-1.0.0.13</Direct_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
@@ -243,7 +243,7 @@ Once the package is installed, click on the Examples button in the package info 
         <Path>LV Server</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>379C2BC5D1E987046BD9C4F90BCB8D54</GUID>
+      <GUID>AA6AD8B1EDB71D879AA3915B17350648</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -376,7 +376,7 @@ Once the package is installed, click on the Examples button in the package info 
         <Path>LV Client\UI.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8C3EEB1EFF4D1F891BC3196F7B05F3EB</GUID>
+      <GUID>3BD78E1D071A5AD35667B015FEEEA18C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -621,7 +621,7 @@ Once the package is installed, click on the Examples button in the package info 
         <Path>LV Server\Timer Start.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3871CC3277701B932916412655D16A4C</GUID>
+      <GUID>5C78F24EE0FFFA09816494A8FD1B0C45</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -670,7 +670,7 @@ Once the package is installed, click on the Examples button in the package info 
         <Path>LV Server</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9941DFE35581B80EEA1090C75C85383B</GUID>
+      <GUID>D892937CCF925689402B878223144FC5</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -719,7 +719,7 @@ Once the package is installed, click on the Examples button in the package info 
         <Path>Common\Timer Init.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D4AA9BDA10C6C4D9C12C860CFB275B52</GUID>
+      <GUID>52C18A0C507806AE93C1EC8D3CE93826</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -754,7 +754,7 @@ Once the package is installed, click on the Examples button in the package info 
         <Path>LV Server\Timer Data.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F646B2EC992C5A852C797B9B7826CBD7</GUID>
+      <GUID>3945A24475B22C63CCDB68B72239090C</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
